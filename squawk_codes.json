@@ -1,0 +1,1690 @@
+[
+    {
+        "id": "0000.",
+        "description": "SSR data unreliable"
+    },
+    {
+        "id": "0001.",
+        "description": "Height Monitoring Unit"
+    },
+    {
+        "id": "0002.",
+        "description": "Ground Transponder Testing"
+    },
+    {
+        "id": "0003-0005",
+        "description": "Not allocated"
+    },
+    {
+        "id": "0006.",
+        "description": "British Transport Police ASU"
+    },
+    {
+        "id": "0007.",
+        "description": "Off-shore Safety Area (OSA) Conspicuity"
+    },
+    {
+        "id": "0010.",
+        "description": "Aircraft operating outside of Birmingham CAS and monitoring Birmingham Radar"
+    },
+    {
+        "id": "0011.",
+        "description": "Solent Monitoring Code"
+    },
+    {
+        "id": "0012.",
+        "description": "Aircraft operating outside of EGLL/EGLC/EGKK CAS and monitoring Thames/Gatwick Radar"
+    },
+    {
+        "id": "0013.",
+        "description": "Aircraft operating outside of Luton/Stansted CAS and monitoring Luton/Essex Radar"
+    },
+    {
+        "id": "0014.",
+        "description": "Kent Air Ambulance (HMD21)"
+    },
+    {
+        "id": "0015.",
+        "description": "Essex Air Ambulance (HMD07)"
+    },
+    {
+        "id": "0016.",
+        "description": "Thames Valley Air Ambulance(HMD24)"
+    },
+    {
+        "id": "0017.",
+        "description": "Virgin HEMS (HMD27)"
+    },
+    {
+        "id": "0020.",
+        "description": "Air Ambulance Helicopter Emergency Medivac"
+    },
+    {
+        "id": "0021.",
+        "description": "Fixed-wing aircraft (Receiving service from a ship)"
+    },
+    {
+        "id": "0022.",
+        "description": "Helicopter(s) (Receiving service from a ship)"
+    },
+    {
+        "id": "0023.",
+        "description": "Aircraft engaged in actual SAR Operations"
+    },
+    {
+        "id": "0024.",
+        "description": "Radar Flight Evaluation/Calibration"
+    },
+    {
+        "id": "0025.",
+        "description": "Not allocated"
+    },
+    {
+        "id": "0026.",
+        "description": "Special Tasks (Mil) - activated under Special Flight Notification (SFN)"
+    },
+    {
+        "id": "0027.",
+        "description": "London AC (Swanwick) Ops Crossing/Joining CAS"
+    },
+    {
+        "id": "0030.",
+        "description": "FIR Lost"
+    },
+    {
+        "id": "0031.",
+        "description": "An aircraft receiving a radar service from Scottish D & D centre"
+    },
+    {
+        "id": "0032.",
+        "description": "Aircraft engaged in police air support operations"
+    },
+    {
+        "id": "0033.",
+        "description": "Aircraft Paradropping"
+    },
+    {
+        "id": "0034.",
+        "description": "Antenna trailing/target towing"
+    },
+    {
+        "id": "0035.",
+        "description": "Selected Flights - Helicopters"
+    },
+    {
+        "id": "0036.",
+        "description": "Helicopter Pipeline/Powerline Inspection Flights"
+    },
+    {
+        "id": "0037.",
+        "description": "Royal Flights - Helicopters"
+    },
+    {
+        "id": "0040.",
+        "description": "Civil Helicopters North Sea"
+    },
+    {
+        "id": "0041-0042",
+        "description": "Greater Manchester Police ASU"
+    },
+    {
+        "id": "0043-0044",
+        "description": "Metropolitan Police ASU"
+    },
+    {
+        "id": "0045.",
+        "description": "Sussex Police ASU"
+    },
+    {
+        "id": "0046.",
+        "description": "Essex Police ASU"
+    },
+    {
+        "id": "0047.",
+        "description": "Surrey Police ASU"
+    },
+    {
+        "id": "0050.",
+        "description": "Chiltern Police ASU (Western Base)"
+    },
+    {
+        "id": "0051.",
+        "description": "Chiltern Police ASU (Eastern Base)"
+    },
+    {
+        "id": "0052.",
+        "description": "Norfolk Police ASU"
+    },
+    {
+        "id": "0052.",
+        "description": "West Yorkshire Police ASU"
+    },
+    {
+        "id": "0053.",
+        "description": "Suffolk Police ASU"
+    },
+    {
+        "id": "0053.",
+        "description": "South Yorkshire Police ASU"
+    },
+    {
+        "id": "0054.",
+        "description": "Cambridgeshire Police ASU"
+    },
+    {
+        "id": "0054.",
+        "description": "Merseyside Police ASU"
+    },
+    {
+        "id": "0054.",
+        "description": "South and East Wales Police ASU"
+    },
+    {
+        "id": "0055.",
+        "description": "Cleveland Police ASU"
+    },
+    {
+        "id": "0055.",
+        "description": "Cheshire Police ASU"
+    },
+    {
+        "id": "0056.",
+        "description": "Northumbria Police ASU"
+    },
+    {
+        "id": "0056.",
+        "description": "North Midlands Police ASU"
+    },
+    {
+        "id": "0057.",
+        "description": "Strathclyde Police ASU"
+    },
+    {
+        "id": "0057.",
+        "description": "Humberside Police ASU"
+    },
+    {
+        "id": "0057.",
+        "description": "East Midlands Police ASU"
+    },
+    {
+        "id": "0060.",
+        "description": "West Midlands Police ASU"
+    },
+    {
+        "id": "0061.",
+        "description": "Lancashire Police ASU"
+    },
+    {
+        "id": "0061.",
+        "description": "Western Counties Police ASU"
+    },
+    {
+        "id": "0062-0077",
+        "description": "No 1 Air Control Centre"
+    },
+    {
+        "id": "0100.",
+        "description": "NATO - CAOC 9 Exercises (activated by NOTAM)"
+    },
+    {
+        "id": "0101-0117",
+        "description": "Transit (ORCAM) Brussels"
+    },
+    {
+        "id": "0120-0137",
+        "description": "Transit (ORCAM) Germany"
+    },
+    {
+        "id": "0140-0177",
+        "description": "Transit (ORCAM) Amsterdam"
+    },
+    {
+        "id": "0200.",
+        "description": "NATO - CAOC 9 Exercises (activated by NOTAM)"
+    },
+    {
+        "id": "0201-0213",
+        "description": "TC Stansted/TC Luton"
+    },
+    {
+        "id": "0201-0217",
+        "description": "RAF Leuchars"
+    },
+    {
+        "id": "0201-0257",
+        "description": "Ireland Domestic"
+    },
+    {
+        "id": "0201-0257",
+        "description": "RNAS Yeovilton"
+    },
+    {
+        "id": "0220.",
+        "description": "RAF Leuchars Conspicuity"
+    },
+    {
+        "id": "0220-0237",
+        "description": "RAF Shawbury"
+    },
+    {
+        "id": "0221-0247",
+        "description": "RAF Leuchars"
+    },
+    {
+        "id": "0224-0243",
+        "description": "Anglia Radar"
+    },
+    {
+        "id": "0240.",
+        "description": "RAF Shawbury Conspicuity"
+    },
+    {
+        "id": "0241-0246",
+        "description": "RAF Shawbury"
+    },
+    {
+        "id": "0244.",
+        "description": "North Denes Conspicuity"
+    },
+    {
+        "id": "0245-0267",
+        "description": "Anglia Radar"
+    },
+    {
+        "id": "0247.",
+        "description": "Cranfield Airport - IFR Conspicuity Purposes"
+    },
+    {
+        "id": "0260.",
+        "description": "Liverpool Airport Conspicuity"
+    },
+    {
+        "id": "0260-0261",
+        "description": "Coventry Airport Conspicuity"
+    },
+    {
+        "id": "0260-0261",
+        "description": "Oil Survey Helicopters - Faeroes/Iceland Gap"
+    },
+    {
+        "id": "0260-0267",
+        "description": "Westland Helicopters Yeovil"
+    },
+    {
+        "id": "0260-0267",
+        "description": "RAF Northolt"
+    },
+    {
+        "id": "0261-0267",
+        "description": "Liverpool Airport"
+    },
+    {
+        "id": "0270-0277",
+        "description": "Superdomestic - Ireland to UK, Germany and Benelux"
+    },
+    {
+        "id": "0300.",
+        "description": "NATO - CAOC 9 Exercises (activated by NOTAM)"
+    },
+    {
+        "id": "0301-0377",
+        "description": "Transit (ORCAM) UK"
+    },
+    {
+        "id": "0400.",
+        "description": "NATO - CAOC 9 Exercises (activated by NOTAM)"
+    },
+    {
+        "id": "0401.",
+        "description": "RAF Leeming Conspicuity"
+    },
+    {
+        "id": "0401.",
+        "description": "Shoreham Approach Procedural"
+    },
+    {
+        "id": "0401-0420",
+        "description": "Birmingham Approach"
+    },
+    {
+        "id": "0401-0430",
+        "description": "Exeter Approach"
+    },
+    {
+        "id": "0401-0437",
+        "description": "Ireland Domestic"
+    },
+    {
+        "id": "0401-0467",
+        "description": "RAF Lakenheath"
+    },
+    {
+        "id": "0402-0416",
+        "description": "RAF Leeming"
+    },
+    {
+        "id": "0421-0446",
+        "description": "Farnborough Radar/LARS"
+    },
+    {
+        "id": "0427.",
+        "description": "RAF Leeming (Topcliffe) Conspicuity"
+    },
+    {
+        "id": "0430-0443",
+        "description": "Edinburgh Approach"
+    },
+    {
+        "id": "0447.",
+        "description": "Farnborough LARS - Blackbushe Departures"
+    },
+    {
+        "id": "0450-0456",
+        "description": "Blackpool Approach"
+    },
+    {
+        "id": "0450-0456",
+        "description": "Farnborough Radar/LARS"
+    },
+    {
+        "id": "0457.",
+        "description": "Blackpool Approach (Liverpool Bay and Morecambe Bay Helicopters)"
+    },
+    {
+        "id": "0457.",
+        "description": "Farnborough LARS - Fairoaks Departures"
+    },
+    {
+        "id": "0460-0466",
+        "description": "Blackpool Approach"
+    },
+    {
+        "id": "0460-0467",
+        "description": "Farnborough Radar/LARS"
+    },
+    {
+        "id": "0467.",
+        "description": "Blackpool Approach (Liverpool Bay and Morecambe Bay Helicopters)"
+    },
+    {
+        "id": "0470-0477",
+        "description": "UK Domestic"
+    },
+    {
+        "id": "0500.",
+        "description": "NATO - CAOC 9 Exercises (activated by NOTAM)"
+    },
+    {
+        "id": "0501-0577",
+        "description": "Transit (ORCAM) UK"
+    },
+    {
+        "id": "0600.",
+        "description": "NATO - CAOC 9 Exercises (activated by NOTAM)"
+    },
+    {
+        "id": "0601-0637",
+        "description": "Transit (ORCAM) Germany"
+    },
+    {
+        "id": "0640-0677",
+        "description": "Transit (ORCAM) Paris"
+    },
+    {
+        "id": "0700.",
+        "description": "NATO - CAOC 9 Exercises (activated by NOTAM)"
+    },
+    {
+        "id": "0701-0777",
+        "description": "Transit (ORCAM) Maastricht"
+    },
+    {
+        "id": "1000.",
+        "description": "IFR GAT flights operating in designated Mode S Airspace"
+    },
+    {
+        "id": "1001-1077",
+        "description": "Transit (ORCAM) Spain"
+    },
+    {
+        "id": "1100.",
+        "description": "NATO - CAOC 9 Exercises (activated by NOTAM)"
+    },
+    {
+        "id": "1101-1137",
+        "description": "Transit (ORCAM) Rhein"
+    },
+    {
+        "id": "1140-1177",
+        "description": "Transit (ORCAM) UK"
+    },
+    {
+        "id": "1177.",
+        "description": "London AC (Swanwick) FIS"
+    },
+    {
+        "id": "1200.",
+        "description": "NATO - CAOC 9 Exercises (activated by NOTAM)"
+    },
+    {
+        "id": "1201-1277",
+        "description": "Channel Islands Domestic"
+    },
+    {
+        "id": "1300.",
+        "description": "NATO - CAOC 9 Exercises (activated by NOTAM)"
+    },
+    {
+        "id": "1301-1327",
+        "description": "NATO - Air Policing"
+    },
+    {
+        "id": "1330-1357",
+        "description": "Transit (ORCAM) Bremen"
+    },
+    {
+        "id": "1360-1377",
+        "description": "Transit (ORCAM) Munich"
+    },
+    {
+        "id": "1400.",
+        "description": "NATO - CAOC 9 Exercises (activated by NOTAM)"
+    },
+    {
+        "id": "1401-1407",
+        "description": "UK Domestic"
+    },
+    {
+        "id": "1410-1437",
+        "description": "Superdomestic - Shannon to UK"
+    },
+    {
+        "id": "1440-1477",
+        "description": "Superdomestic - Dublin to UK"
+    },
+    {
+        "id": "1500-1577",
+        "description": "NATO - CAOC 9 Exercises (activated by NOTAM)"
+    },
+    {
+        "id": "1601-1677",
+        "description": "NATO - CAOC 9 Exercises (activated by NOTAM)"
+    },
+    {
+        "id": "1701-1727",
+        "description": "NATO - CAOC 9 Exercises (activated by NOTAM)"
+    },
+    {
+        "id": "1730-1746",
+        "description": "Newquay Approach"
+    },
+    {
+        "id": "1730-1756",
+        "description": "RAF Coningsby"
+    },
+    {
+        "id": "1730-1767",
+        "description": "RAF Spadeadam"
+    },
+    {
+        "id": "1747.",
+        "description": "Newquay Conspicuity"
+    },
+    {
+        "id": "1757.",
+        "description": "RAF Coningsby Conspicuity"
+    },
+    {
+        "id": "1760-1777",
+        "description": "RAF Coningsby"
+    },
+    {
+        "id": "1760-1777",
+        "description": "RNAS Yeovilton Fighter Control"
+    },
+    {
+        "id": "2000.",
+        "description": "Aircraft from non SSR environment or on the aerodrome surface"
+    },
+    {
+        "id": "2001-2077",
+        "description": "Transit (ORCAM) Shannon"
+    },
+    {
+        "id": "2100.",
+        "description": "NATO - CAOC 9 Exercises (activated by NOTAM)"
+    },
+    {
+        "id": "2101-2177",
+        "description": "Transit (ORCAM) Amsterdam"
+    },
+    {
+        "id": "2200.",
+        "description": "NATO - CAOC 9 Exercises (activated by NOTAM)"
+    },
+    {
+        "id": "2201-2277",
+        "description": "Superdomestic UK to LF, LE, LP, GC and FA"
+    },
+    {
+        "id": "2300.",
+        "description": "NATO - CAOC 9 Exercises (activated by NOTAM)"
+    },
+    {
+        "id": "2301-2337",
+        "description": "Transit (ORCAM) Bordeaux"
+    },
+    {
+        "id": "2340-2377",
+        "description": "Transit (ORCAM) Brest"
+    },
+    {
+        "id": "2400-2477",
+        "description": "NATO - CAOC 9 Exercises (activated by NOTAM)"
+    },
+    {
+        "id": "2500.",
+        "description": "NATO - CAOC 9 Exercises (activated by NOTAM)"
+    },
+    {
+        "id": "2501-2577",
+        "description": "Transit (ORCAM) Karlsruhe"
+    },
+    {
+        "id": "2600.",
+        "description": "NATO - CAOC 9 Exercises (activated by NOTAM)"
+    },
+    {
+        "id": "2601-2620",
+        "description": "Aberdeen Approach"
+    },
+    {
+        "id": "2601-2637",
+        "description": "RAF Cranwell"
+    },
+    {
+        "id": "2601-2645",
+        "description": "MoD Boscombe Down"
+    },
+    {
+        "id": "2601-2657",
+        "description": "Irish Domestic Westbound departures and Eastbound arrivals"
+    },
+    {
+        "id": "2621-2630",
+        "description": "Aberdeen (Sumburgh Approach)"
+    },
+    {
+        "id": "2631-2637",
+        "description": "Aberdeen (Northern North Sea Off-shore)"
+    },
+    {
+        "id": "2640-2657",
+        "description": "Aberdeen (Northern North Sea Off-shore - Sumburgh Sector)"
+    },
+    {
+        "id": "2641-2642",
+        "description": "RAF Cranwell - Lincolnshire AIAA"
+    },
+    {
+        "id": "2646-2647",
+        "description": "MoD Boscombe Down - High Risks Trial"
+    },
+    {
+        "id": "2650.",
+        "description": "MoD Boscombe Down Conspicuity"
+    },
+    {
+        "id": "2650-2653",
+        "description": "Leeds Bradford Approach"
+    },
+    {
+        "id": "2651-2657",
+        "description": "MoD Boscombe Down"
+    },
+    {
+        "id": "2654.",
+        "description": "Leeds Bradford Conspicuity"
+    },
+    {
+        "id": "2655-2677",
+        "description": "Leeds Bradford Approach"
+    },
+    {
+        "id": "2660-2675",
+        "description": "Middle Wallop"
+    },
+    {
+        "id": "2660-2677",
+        "description": "Aberdeen (Northern North Sea Off-shore)"
+    },
+    {
+        "id": "2676-2677",
+        "description": "Middle Wallop Conspicuity"
+    },
+    {
+        "id": "2700.",
+        "description": "NATO - CAOC 9 Exercises (activated by NOTAM)"
+    },
+    {
+        "id": "2701-2737",
+        "description": "Transit (ORCAM) Shannon"
+    },
+    {
+        "id": "2740-2777",
+        "description": "Transit (ORCAM) Zurich"
+    },
+    {
+        "id": "3000.",
+        "description": "NATO - Aircraft receiving a service from AEW aircraft"
+    },
+    {
+        "id": "3001-3077",
+        "description": "Transit (ORCAM) Zurich"
+    },
+    {
+        "id": "3100.",
+        "description": "NATO - Aircraft receiving a service from AEW aircraft"
+    },
+    {
+        "id": "3101-3127",
+        "description": "Transit (ORCAM) Germany"
+    },
+    {
+        "id": "3130-3177",
+        "description": "Transit (ORCAM) Amsterdam"
+    },
+    {
+        "id": "3200.",
+        "description": "NATO - Aircraft receiving a service from AEW aircraft"
+    },
+    {
+        "id": "3201-3202",
+        "description": "UK Domestic (London TC (Swanwick) Special Sector Codes) "
+    },
+    {
+        "id": "3203-3216",
+        "description": "UK Domestic (London AC (Swanwick) Special Sector Codes) "
+    },
+    {
+        "id": "3217-3220",
+        "description": "UK Domestic"
+    },
+    {
+        "id": "3221-3257",
+        "description": "Superdomestic - UK to Oceanic via Shannon/Dublin"
+    },
+    {
+        "id": "3260-3277",
+        "description": "UK Domestic"
+    },
+    {
+        "id": "3300.",
+        "description": "NATO - Aircraft receiving a service from AEW aircraft"
+    },
+    {
+        "id": "3301-3304",
+        "description": "Swanwick (Military) Special Tasks"
+    },
+    {
+        "id": "3305-3307",
+        "description": "London D&D Cell"
+    },
+    {
+        "id": "3310-3367",
+        "description": "Swanwick (Military)"
+    },
+    {
+        "id": "3370-3377",
+        "description": "UK Domestic"
+    },
+    {
+        "id": "3400.",
+        "description": "NATO - Aircraft receiving a service from AEW aircraft"
+    },
+    {
+        "id": "3401-3457",
+        "description": "Superdomestic - UK to Germany, Netherlands and Benelux"
+    },
+    {
+        "id": "3460-3477",
+        "description": "Transit (ORCAM) Germany to UK"
+    },
+    {
+        "id": "3500.",
+        "description": "NATO - Aircraft receiving a service from AEW aircraft"
+    },
+    {
+        "id": "3501-3507",
+        "description": "Transit (ORCAM) Luxembourg"
+    },
+    {
+        "id": "3510-3537",
+        "description": "Transit (ORCAM) Maastricht"
+    },
+    {
+        "id": "3540-3577",
+        "description": "Transit (ORCAM) Berlin"
+    },
+    {
+        "id": "3600.",
+        "description": "NATO - Aircraft receiving a service from AEW aircraft"
+    },
+    {
+        "id": "3601-3623",
+        "description": "RAF Benson"
+    },
+    {
+        "id": "3601-3632",
+        "description": "Scottish ATSOCA Purposes"
+    },
+    {
+        "id": "3601-3634",
+        "description": "RAF Waddington"
+    },
+    {
+        "id": "3601-3644",
+        "description": "Cardiff Approach"
+    },
+    {
+        "id": "3601-3647",
+        "description": "Jersey Approach"
+    },
+    {
+        "id": "3624.",
+        "description": "RAF Benson Conspicuity"
+    },
+    {
+        "id": "3640-3645",
+        "description": "RAF Odiham"
+    },
+    {
+        "id": "3640-3665",
+        "description": "RAF Marham"
+    },
+    {
+        "id": "3640-3677",
+        "description": "Aberdeen (Northern North Sea Off-shore)"
+    },
+    {
+        "id": "3641-3677",
+        "description": "BAe Warton"
+    },
+    {
+        "id": "3645.",
+        "description": "Cardiff Approach - St Athan Conspicuity"
+    },
+    {
+        "id": "3646.",
+        "description": "RAF Odiham Conspicuity"
+    },
+    {
+        "id": "3646-3657",
+        "description": "Cardiff Approach"
+    },
+    {
+        "id": "3647-3653",
+        "description": "RAF Odiham "
+    },
+    {
+        "id": "3660-3677",
+        "description": "Solent Approach (Southampton)"
+    },
+    {
+        "id": "3666.",
+        "description": "Solent Radar Conspicuity"
+    },
+    {
+        "id": "3666.",
+        "description": "RAF Marham - Visual Recovery"
+    },
+    {
+        "id": "3667.",
+        "description": "RAF Marham - FIS Conspicuity"
+    },
+    {
+        "id": "3667-3677",
+        "description": "Solent Approach (Southampton)"
+    },
+    {
+        "id": "3700.",
+        "description": "NATO - Aircraft receiving a service from AEW aircraft"
+    },
+    {
+        "id": "3701-3710",
+        "description": "Norwich Approach"
+    },
+    {
+        "id": "3701-3710",
+        "description": "BAe Woodford"
+    },
+    {
+        "id": "3701-3717",
+        "description": "Military aircraft under service from RN AEW aircraft in South West Approaches"
+    },
+    {
+        "id": "3701-3736",
+        "description": "RAF Brize Norton"
+    },
+    {
+        "id": "3701-3747",
+        "description": "Guernsey Approach"
+    },
+    {
+        "id": "3701-3747",
+        "description": "RAF Lossiemouth"
+    },
+    {
+        "id": "3711.",
+        "description": "Woodford Entry/Exit Lane (Woodford Inbounds and Outbounds)"
+    },
+    {
+        "id": "3712.",
+        "description": "Woodford Entry/Exit Lane (Manchester Inbounds)"
+    },
+    {
+        "id": "3713.",
+        "description": "Manchester VFR/SVFR (Outbounds)"
+    },
+    {
+        "id": "3720.",
+        "description": "RAF Cottesmore Conspicuity"
+    },
+    {
+        "id": "3720-3727",
+        "description": "RAF Valley"
+    },
+    {
+        "id": "3720-3766",
+        "description": "Newcastle Approach"
+    },
+    {
+        "id": "3721-3754",
+        "description": "RAF Cottesmore"
+    },
+    {
+        "id": "3730-3736",
+        "description": "RAF Valley"
+    },
+    {
+        "id": "3737.",
+        "description": "RAF Valley - Visual Recovery "
+    },
+    {
+        "id": "3737.",
+        "description": "RAF Brize Norton Approach Conspicuity"
+    },
+    {
+        "id": "3740-3745",
+        "description": "RAF Brize Norton"
+    },
+    {
+        "id": "3740-3747",
+        "description": "RAF Valley"
+    },
+    {
+        "id": "3750.",
+        "description": "RAF Valley - VFR VATA East"
+    },
+    {
+        "id": "3750-3763",
+        "description": "Gatwick Approach (TC)"
+    },
+    {
+        "id": "3751.",
+        "description": "RAF Valley - VFR VATA West"
+    },
+    {
+        "id": "3752.",
+        "description": "RAF Valley - RIFA"
+    },
+    {
+        "id": "3753.",
+        "description": "RAF Valley - Low Level Helicopters"
+    },
+    {
+        "id": "3754.",
+        "description": "RAF Valley - Special Tasks"
+    },
+    {
+        "id": "3755.",
+        "description": "RAF Valley"
+    },
+    {
+        "id": "3755-3762",
+        "description": "RAF Wittering Approach"
+    },
+    {
+        "id": "3756-3765",
+        "description": "RAF Valley - VATA IFR Traffic"
+    },
+    {
+        "id": "3764-3767",
+        "description": "Gatwick Tower"
+    },
+    {
+        "id": "3767.",
+        "description": "Redhill Approach Conspicuity"
+    },
+    {
+        "id": "3767.",
+        "description": "Newcastle Approach Conspicuity"
+    },
+    {
+        "id": "3770-3777",
+        "description": "ATSOCAS"
+    },
+    {
+        "id": "4000.",
+        "description": "NATO - Aircraft receiving a service from AEW aircraft"
+    },
+    {
+        "id": "4001-4077",
+        "description": "Transit (ORCAM) Aix-en-Provence"
+    },
+    {
+        "id": "4100.",
+        "description": "NATO - Aircraft receiving a service from AEW aircraft"
+    },
+    {
+        "id": "4101-4127",
+        "description": "Transit (ORCAM) Frankfurt"
+    },
+    {
+        "id": "4130-4177",
+        "description": "Transit (ORCAM) Dusseldorf"
+    },
+    {
+        "id": "4200.",
+        "description": "NATO - Aircraft receiving a service from AEW aircraft"
+    },
+    {
+        "id": "4201-4214",
+        "description": "Heathrow Domestic"
+    },
+    {
+        "id": "4215-4247",
+        "description": "Superdomestic - Shannon inbound UK"
+    },
+    {
+        "id": "4250.",
+        "description": "Manston Conspicuity"
+    },
+    {
+        "id": "4250-4257",
+        "description": "Belfast City Approach"
+    },
+    {
+        "id": "4250-4267",
+        "description": "Aberdeen Approach"
+    },
+    {
+        "id": "4250-4277",
+        "description": "BAe Bristol Filton"
+    },
+    {
+        "id": "4250-4277",
+        "description": "Humberside Approach"
+    },
+    {
+        "id": "4251-4267",
+        "description": "Manston Approach"
+    },
+    {
+        "id": "4300.",
+        "description": "NATO - Aircraft receiving a service from AEW aircraft"
+    },
+    {
+        "id": "4301-4307",
+        "description": "UK Domestic"
+    },
+    {
+        "id": "4310-4323",
+        "description": "UK Domestic (Gatwick Special Sector Codes)"
+    },
+    {
+        "id": "4324-4337",
+        "description": "UK Domestic (Scottish Special Sector Codes)"
+    },
+    {
+        "id": "4340-4353",
+        "description": "UK Domestic (SCoACC Special Sector Codes)"
+    },
+    {
+        "id": "4354-4377",
+        "description": "UK Domestic"
+    },
+    {
+        "id": "4400.",
+        "description": "NATO - Aircraft receiving a service from AEW aircraft"
+    },
+    {
+        "id": "4401-4427",
+        "description": "Superdomestic - Brussels FIR to UK FIR"
+    },
+    {
+        "id": "4430-4477",
+        "description": "Superdomestic - UK to Eire and Oceanic"
+    },
+    {
+        "id": "4500.",
+        "description": "NATO - Aircraft receiving a service from AEW aircraft"
+    },
+    {
+        "id": "4501.",
+        "description": "Wattisham Conspicuity"
+    },
+    {
+        "id": "4501-4515",
+        "description": "RAF Lyneham"
+    },
+    {
+        "id": "4501-4520",
+        "description": "Prestwick Approach"
+    },
+    {
+        "id": "4501-4547",
+        "description": "RAF Linton-on-Ouse"
+    },
+    {
+        "id": "4502-4547",
+        "description": "Wattisham Approach"
+    },
+    {
+        "id": "4516-4517",
+        "description": "RAF Lyneham Conspicuity"
+    },
+    {
+        "id": "4520-4524",
+        "description": "RAF Lyneham"
+    },
+    {
+        "id": "4530-4542",
+        "description": "MoD Aberporth"
+    },
+    {
+        "id": "4530-4567",
+        "description": "Plymouth (Military) Radar"
+    },
+    {
+        "id": "4550-4567",
+        "description": "Isle of Man"
+    },
+    {
+        "id": "4550-4572",
+        "description": "East Midlands Approach"
+    },
+    {
+        "id": "4573.",
+        "description": "East Midlands Approach Conspicuity"
+    },
+    {
+        "id": "4574.",
+        "description": "Not allocated"
+    },
+    {
+        "id": "4575.",
+        "description": "RAF Leeming/RAF Linton-on-Ouse "
+    },
+    {
+        "id": "4575.",
+        "description": "Southend Airport Conspicuity"
+    },
+    {
+        "id": "4576-4577",
+        "description": "RAF Colerne Conspicuity"
+    },
+    {
+        "id": "4576-4577",
+        "description": "Vale of York AIAA Conspicuity"
+    },
+    {
+        "id": "4600.",
+        "description": "NATO - Aircraft receiving a service from AEW aircraft"
+    },
+    {
+        "id": "4601.",
+        "description": "Hawarden Conspicuity"
+    },
+    {
+        "id": "4601.",
+        "description": "RAF Wyton QGH Approach"
+    },
+    {
+        "id": "4602-4607",
+        "description": "Hawarden Approach"
+    },
+    {
+        "id": "4610-4667",
+        "description": "Scottish (Military) Radar "
+    },
+    {
+        "id": "4670-4676",
+        "description": "TC Stansted/TC Luton"
+    },
+    {
+        "id": "4670-4677",
+        "description": "RAF Coningsby RWS"
+    },
+    {
+        "id": "4677.",
+        "description": "Carlisle Airport Conspicuity"
+    },
+    {
+        "id": "4677.",
+        "description": "Luton Airport Tower Conspicuity"
+    },
+    {
+        "id": "4700.",
+        "description": "NATO - Aircraft receiving a service from AEW aircraft"
+    },
+    {
+        "id": "4701-4777",
+        "description": "Special Events (activated by NOTAM)"
+    },
+    {
+        "id": "5000.",
+        "description": "NATO - Aircraft receiving a service from AEW aircraft"
+    },
+    {
+        "id": "5001-5012",
+        "description": "TC Non-Standard Flights"
+    },
+    {
+        "id": "5013-5017",
+        "description": "UK Domestic"
+    },
+    {
+        "id": "5020-5046",
+        "description": "Farnborough LLARS"
+    },
+    {
+        "id": "5047.",
+        "description": "Farnborough LLARS Conspicuity"
+    },
+    {
+        "id": "5050-5067",
+        "description": "Bristol Approach"
+    },
+    {
+        "id": "5070.",
+        "description": "Bristol VFR Conspicuity"
+    },
+    {
+        "id": "5071-5077",
+        "description": "Bristol Approach"
+    },
+    {
+        "id": "5100.",
+        "description": "NATO - Aircraft receiving a service from AEW aircraft"
+    },
+    {
+        "id": "5101-5177",
+        "description": "CRC Boulmer"
+    },
+    {
+        "id": "5200.",
+        "description": "NATO - Aircraft receiving a service from AEW aircraft"
+    },
+    {
+        "id": "5201-5260",
+        "description": "Transit (ORCAM) UK"
+    },
+    {
+        "id": "5261-5270",
+        "description": "Transit (ORCAM) Dublin to Europe"
+    },
+    {
+        "id": "5271-5277",
+        "description": "Transit (ORCAM) Channel Islands"
+    },
+    {
+        "id": "5300.",
+        "description": "NATO - Aircraft receiving a service from AEW aircraft"
+    },
+    {
+        "id": "5301-5377",
+        "description": "Transit (ORCAM) Barcelona"
+    },
+    {
+        "id": "5400.",
+        "description": "NATO - Aircraft receiving a service from AEW aircraft"
+    },
+    {
+        "id": "5401-5477",
+        "description": "UK Domestic"
+    },
+    {
+        "id": "5500.",
+        "description": "NATO - Aircraft receiving a service from AEW aircraft"
+    },
+    {
+        "id": "5501-5577",
+        "description": "Transit (ORCAM) Barcelona"
+    },
+    {
+        "id": "5600.",
+        "description": "NATO - Aircraft receiving a service from AEW aircraft"
+    },
+    {
+        "id": "5601-5647",
+        "description": "Transit (ORCAM) Paris"
+    },
+    {
+        "id": "5650-5657",
+        "description": "Transit (ORCAM) Luxembourg"
+    },
+    {
+        "id": "5660-5677",
+        "description": "Transit (ORCAM) Reims"
+    },
+    {
+        "id": "5700.",
+        "description": "NATO - Aircraft receiving a service from AEW aircraft"
+    },
+    {
+        "id": "5701-5777",
+        "description": "Transit (ORCAM) Geneva"
+    },
+    {
+        "id": "6000.",
+        "description": "NATO - CAOC 9 Exercises "
+    },
+    {
+        "id": "6001-6007",
+        "description": "UK Domestic"
+    },
+    {
+        "id": "6010-6037",
+        "description": "UK Domestic"
+    },
+    {
+        "id": "6040-6077",
+        "description": "London (Military) Radar"
+    },
+    {
+        "id": "6100.",
+        "description": "NATO - CAOC 9 Exercises"
+    },
+    {
+        "id": "6101-6107",
+        "description": "London (Military) Radar"
+    },
+    {
+        "id": "6110-6137",
+        "description": "Scottish (Military) Radar"
+    },
+    {
+        "id": "6140-6147",
+        "description": "London (Military) Radar"
+    },
+    {
+        "id": "6151-6157",
+        "description": "Scottish (Military) Radar"
+    },
+    {
+        "id": "6160.",
+        "description": "Doncaster Sheffield Conspicuity"
+    },
+    {
+        "id": "6160-6176",
+        "description": "Cambridge Approach"
+    },
+    {
+        "id": "6160-6176",
+        "description": "Inverness Approach"
+    },
+    {
+        "id": "6160-6177",
+        "description": "Plymouth (Military) Radar"
+    },
+    {
+        "id": "6161-6167",
+        "description": "Doncaster Sheffield Approach"
+    },
+    {
+        "id": "6170.",
+        "description": "Aircraft operating outside of Doncaster Sheffield Controlled Airspace Zone and Monitoring Doncaster Sheffield Radar frequency"
+    },
+    {
+        "id": "6171-6177",
+        "description": "Doncaster Sheffield Approach"
+    },
+    {
+        "id": "6177.",
+        "description": "Cambridge Conspicuity"
+    },
+    {
+        "id": "6177.",
+        "description": "Inverness VFR Conspicuity"
+    },
+    {
+        "id": "6200.",
+        "description": "NATO - CAOC 9 Exercises "
+    },
+    {
+        "id": "6201-6227",
+        "description": "Superdomestic - Dublin inbound UK"
+    },
+    {
+        "id": "6230-6247",
+        "description": "Superdomestic - UK to Scandinavia and Russia"
+    },
+    {
+        "id": "6250-6257",
+        "description": "Superdomestic - UK to Amsterdam"
+    },
+    {
+        "id": "6260-6277",
+        "description": "Superdomestic - Amsterdam to UK, Eire and Iceland"
+    },
+    {
+        "id": "6300.",
+        "description": "NATO - CAOC 9 Exercises "
+    },
+    {
+        "id": "6301-6377",
+        "description": "Superdomestic - UK to France"
+    },
+    {
+        "id": "6400.",
+        "description": "NATO - CAOC 9 Exercises"
+    },
+    {
+        "id": "6401-6457",
+        "description": "Swanwick (Military) Radar"
+    },
+    {
+        "id": "6460-6477",
+        "description": "UK Domestic"
+    },
+    {
+        "id": "6500.",
+        "description": "NATO - CAOC 9 Exercises "
+    },
+    {
+        "id": "6501-6577",
+        "description": "CRC Scampton"
+    },
+    {
+        "id": "6600.",
+        "description": "NATO - CAOC 9 Exercises"
+    },
+    {
+        "id": "6601-6677",
+        "description": "Transit (ORCAM) Germany"
+    },
+    {
+        "id": "6700.",
+        "description": "NATO - CAOC 9 Exercises"
+    },
+    {
+        "id": "6701-6747",
+        "description": "Transit (ORCAM) Reims"
+    },
+    {
+        "id": "6750-6777",
+        "description": "Transit (ORCAM) Aix-en-Provence"
+    },
+    {
+        "id": "7000.",
+        "description": "General Conspicuity code"
+    },
+    {
+        "id": "7001.",
+        "description": "Military Fixed-wing Low Level Conspicuity/Climbout"
+    },
+    {
+        "id": "7002.",
+        "description": "Danger Areas General"
+    },
+    {
+        "id": "7003.",
+        "description": "Red Arrows Transit/Display"
+    },
+    {
+        "id": "7004.",
+        "description": "Conspicuity Aerobatics and Display"
+    },
+    {
+        "id": "7005.",
+        "description": "High-Energy Manoeuvres"
+    },
+    {
+        "id": "7006.",
+        "description": "Autonomous Operations within TRA and TRA (G)"
+    },
+    {
+        "id": "7007.",
+        "description": "Open Skies Observation Aircraft"
+    },
+    {
+        "id": "7010.",
+        "description": "Operating in Aerodrome Traffic Pattern"
+    },
+    {
+        "id": "7011-7013",
+        "description": "Not allocated"
+    },
+    {
+        "id": "7014-7027",
+        "description": "UK Domestic"
+    },
+    {
+        "id": "7030-7045",
+        "description": "RNAS Culdrose"
+    },
+    {
+        "id": "7030-7046",
+        "description": "TC Thames/TC Heathrow"
+    },
+    {
+        "id": "7030-7047",
+        "description": "Aldergrove Approach"
+    },
+    {
+        "id": "7030-7066",
+        "description": "Durham Tees Valley Airport"
+    },
+    {
+        "id": "7030-7077",
+        "description": "Aberdeen (Northern North Sea Off-shore)"
+    },
+    {
+        "id": "7046-7047",
+        "description": "RNAS Culdrose Conspicuity"
+    },
+    {
+        "id": "7047.",
+        "description": "TC Thames (Biggin Hill Airport Conspicuity)"
+    },
+    {
+        "id": "7050-7056",
+        "description": "TC Thames/TC Heathrow"
+    },
+    {
+        "id": "7057.",
+        "description": "TC Thames (London City Airport Conspicuity)"
+    },
+    {
+        "id": "7050-7077",
+        "description": "RNAS Culdrose"
+    },
+    {
+        "id": "7067.",
+        "description": "Durham Tees Valley Airport Conspicuity"
+    },
+    {
+        "id": "7070-7076",
+        "description": "TC Thames/TC Heathrow"
+    },
+    {
+        "id": "7077.",
+        "description": "TC Thames (London Heliport Conspicuity)"
+    },
+    {
+        "id": "7100.",
+        "description": "London Control (Swanwick) Saturation Code"
+    },
+    {
+        "id": "7101-7177",
+        "description": "Transit (ORCAM) Brussels"
+    },
+    {
+        "id": "7200.",
+        "description": "RN Ships"
+    },
+    {
+        "id": "7201-7247",
+        "description": "Transit (ORCAM) Vienna"
+    },
+    {
+        "id": "7250-7257",
+        "description": "UK Superdomestic for destinations in France and Barcelona FIR"
+    },
+    {
+        "id": "7260-7267",
+        "description": "Superdomestic - Shannon/Dublin to France and Spain"
+    },
+    {
+        "id": "7270-7277",
+        "description": "Plymouth Radar Superdomestic for destinations in UK and France"
+    },
+    {
+        "id": "7300.",
+        "description": "Not allocated"
+    },
+    {
+        "id": "7301-7307",
+        "description": "Superdomestic - Shannon Eastbound landing UK"
+    },
+    {
+        "id": "7310-7327",
+        "description": "Superdomestic - UK to Netherlands"
+    },
+    {
+        "id": "7330-7347",
+        "description": "Superdomestic - Netherlands to UK"
+    },
+    {
+        "id": "7350.",
+        "description": "Norwich Approach Conspicuity"
+    },
+    {
+        "id": "7350-7361",
+        "description": "MoD Ops in EG D701 (Hebrides)"
+    },
+    {
+        "id": "7350-7365",
+        "description": "Manchester Approach"
+    },
+    {
+        "id": "7350-7367",
+        "description": "RNAS Culdrose"
+    },
+    {
+        "id": "7350-7376",
+        "description": "Bournemouth Approach/LARS"
+    },
+    {
+        "id": "7351-7377",
+        "description": "Norwich Approach"
+    },
+    {
+        "id": "7362.",
+        "description": "MoD Ops in EG D702 (Fort George)"
+    },
+    {
+        "id": "7363.",
+        "description": "MoD Ops in EG D703 (Tain)"
+    },
+    {
+        "id": "7367-7373",
+        "description": "Manchester Approach"
+    },
+    {
+        "id": "7374.",
+        "description": "Dundee Airport Conspicuity"
+    },
+    {
+        "id": "7375.",
+        "description": "Manchester TMA and Woodvale Local Area (Woodvale UAS Conspicuity)"
+    },
+    {
+        "id": "7377.",
+        "description": "Bournemouth Radar Conspicuity"
+    },
+    {
+        "id": "7400.",
+        "description": "MPA/DEFRA/Fishery Protection Conspicuity"
+    },
+    {
+        "id": "7401-7437",
+        "description": "UK Domestic"
+    },
+    {
+        "id": "7440-7477",
+        "description": "Superdomestic Spain and France to UK, Ireland, Iceland and North America"
+    },
+    {
+        "id": "7500.",
+        "description": "Special Purpose Code - Hi-Jacking"
+    },
+    {
+        "id": "7501-7537",
+        "description": "Transit (ORCAM) Geneva"
+    },
+    {
+        "id": "7540-7547",
+        "description": "Transit (ORCAM) Bremen"
+    },
+    {
+        "id": "7550-7577",
+        "description": "Transit (ORCAM) Paris"
+    },
+    {
+        "id": "7600.",
+        "description": "Special Purpose Code - Radio Failure"
+    },
+    {
+        "id": "7601-7607",
+        "description": "Superdomestic - Shannon/Dublin to Nordic States"
+    },
+    {
+        "id": "7610-7617",
+        "description": "Superdomestic - Ireland to UK"
+    },
+    {
+        "id": "7620-7657",
+        "description": "Superdomestic - UK to USA, Canada and Caribbean"
+    },
+    {
+        "id": "7660-7677",
+        "description": "Superdomestic - UK to USA, Canada, Canaries and Caribbean"
+    },
+    {
+        "id": "7700.",
+        "description": "Special Purpose Code - Emergency"
+    },
+    {
+        "id": "7701-7717",
+        "description": "Superdomestic - UK to France and Spain"
+    },
+    {
+        "id": "7720-7727",
+        "description": "Transit (ORCAM) Munich"
+    },
+    {
+        "id": "7730-7757",
+        "description": "Superdomestic - Shannon Eastbound landing UK"
+    },
+    {
+        "id": "7760-7775",
+        "description": "Superdomestic - UK to Channel Islands"
+    },
+    {
+        "id": "7776-7777",
+        "description": "SSR Monitors"
+    }
+]
